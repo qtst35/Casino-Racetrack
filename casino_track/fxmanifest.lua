@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-author 'Harold'
+author 'Marc-Harold'
 description 'Casino-track'
 version '1.0.0'
 
