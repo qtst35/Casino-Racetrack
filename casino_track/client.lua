@@ -30,7 +30,7 @@ Citizen.CreateThread(function()
     SetEntityHeading(trackStraight4, _trackStraight4.h)
     SetModelAsNoLongerNeeded(trackStraight4)
 
-    local _trackStraight5 = {x = 1134.64, y = -22.00, z = 81.1, h = 237.65}
+    local _trackStraight5 = {x = 1134.64, y = -22.00, z = 81.2, h = 237.65}
     trackStraight5 = CreateObject(propStraightModel, _trackStraight5.x, _trackStraight5.y, _trackStraight5.z, false, false, true) -- creates object
     SetEntityHeading(trackStraight5, _trackStraight5.h)
     SetModelAsNoLongerNeeded(trackStraight5)
