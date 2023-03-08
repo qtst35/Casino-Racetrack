@@ -1,14 +1,5 @@
-# Casino-Racetrack 1.3
+# Casino-Racetrack VERSION 2
 FiveM resource that changes the horse racing track into a car racing track
 
-UPDATE : 1.1
-
-Added props to clean up some areas of the track and add some life.
-
-UPDATE : 1.2
-
-Replaced a track piece and fixed some height alignment issues.
-
-UPDATE : 1.3
-
-Removed Horse track fence.
+UPDATE : 2.0.0
+cleaned up the props and replaced the track props with actual road surface thanks to OCRP and succ3ssgaming :+1:
